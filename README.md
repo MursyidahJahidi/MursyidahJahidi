@@ -59,4 +59,4 @@
 📧 Email: mursyidah.9879@gmail.com<br>
 💼 LinkedIn: [Mursyidah Jahidi](https://www.linkedin.com/in/mursyidah-jahidi-a9b279398/)<br>
 💬 WhatsApp: Chat with me<br>
-👣 Instagram: [mrsydh._]()<br>
+👣 Instagram: [mrsydh._](https://www.instagram.com/mrsydh._?igsh=MXdpYWVxbHA4NjExYg%3D%3D&utm_source=qr)<br>

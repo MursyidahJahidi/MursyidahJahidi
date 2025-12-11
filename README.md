@@ -9,7 +9,7 @@ CS undergrad learning the theory while building while building the practical. In
 * 🌍  I'm based in Kuala Lumpur
 * ✉️  You can contact me at [mursyidah.9879@gmail.com](mailto:mursyidah.9879@gmail.com)
 * 🧠  I'm currently learning Discrete Structure, Digital Logic, Technology Information and System and Programming Technique ( C++ ) .
-* 💬  Ask me about I love running ! , but need a hype buddy to keep me going 👀
+* 💬  I love running ! , but need a hype buddy to keep me going 👀
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>

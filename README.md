@@ -56,7 +56,7 @@
 
 ## 📬 Connect With Me
 🔗 GitHub: [MursyidahJahidi](https://github.com/MursyidahJahidi )<br>
-📧 Email: najlaaunio6@gmail.com<br>
+📧 Email: mursyidah.9879@gmail.com<br>
 💼 LinkedIn: [Mursyidah Jahidi](https://www.linkedin.com/in/mursyidah-jahidi-a9b279398/)<br>
 💬 WhatsApp: Chat with me<br>
 👣 Instagram: [mrsydh._]()<br>

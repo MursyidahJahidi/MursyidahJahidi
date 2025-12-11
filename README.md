@@ -1,29 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mursyidah Jahidi
-=========================================================================================================================================
+## Hi there, I'm Mursyidah ! ✨
+- 👩🏻‍🎓 First year Data Engineering student from Universiti Teknologi Malaysia
+- 🗺️ Spoken Languages : Malay, English
+- 💻 Fun fact : I love coding without pressure 
 
-Computer Science Student
-------------------------
+## 🌟 About Me
+- Learning, coding, and exploring new technologies
+- Interested in learning how things work behind the scenes
+- I enjoy running and reading too
 
-CS undergrad learning the theory while building while building the practical. Interested in clean code, solid fundamentals, and projects that help me grow. Not perfect, still figuring things out, but motivated to keep improving.
+## 🌱 Education
+- Universiti Teknologi Malaysia (2025 – Present)<br>
+    - Course: Bachelor of Computer Science (Data Engineering) with Honors
 
-* 🌍  I'm based in Kuala Lumpur
-* ✉️  You can contact me at [mursyidah.9879@gmail.com](mailto:mursyidah.9879@gmail.com)
-* 🧠  I'm currently learning Discrete Structure, Digital Logic, Technology Information and System and Programming Technique ( C++ ) .
-* 💬  I love running ! , but need a hype buddy to keep me going 👀
+- Kolej Matrikulasi Negeri Sembilan (2024 – 2025)<br>
+    - Course: Physical Science<br>
+    - CGPA: 4.0<br>
+    - MUET: Band 4.5<br>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-</p>
+- SMK Agama Kuala Lumpur (2019 – 2024)<br>
+    - SPM: 11A 1B
 
-### Socials
+## 🤝 Position
+- Kolej Matrikulasi Negeri Sembilan<br>
+    - Co-curricular Activities (Vice President) -- 2025<br>
 
-<p align="left"> <a href="https://www.github.com/MursyidahJahidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Mursyidah Jahidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+- SMK Agama Kuala Lumpur<br>
+    - School Prefect -- 2019-2024<br>
+    - Khat Club (Treasurer(2023)) -- 2019-2023<br>
+    - Sea Scouts (Treasurer(2023)) -- 2019-2023<br>
+    - Netball Club (Vice President) -- 2019-2023<br>
 
-<b>My GitHub Stats</b>
+## 🏆 Certificates & Awards
+4th place in District Netball Competition  - 2022 & 2023<br>
 
-<a href="http://www.github.com/MursyidahJahidi"><img src="https://github-readme-stats.vercel.app/api?username=MursyidahJahidi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=831843&hide_border=true&show_icons=true" alt="MursyidahJahidi's GitHub stats" /></a>
+## 📚 Courses
+[SECI1013 - Discrete Structure]<br>
+[SECJ1013 - Programming Technique I]<br>
+[SECP1513 - Technology and Information System]<br>
+[SECR1013 - Digital Logic]<br>
+[ULRS1032 - Integrity and Anti-Corruption]<br>
 
-<a href="http://www.github.com/MursyidahJahidi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MursyidahJahidi&stroke=ffffff&background=831843&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Recent Projects
 
-<a href="https://github.com/MursyidahJahidi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MursyidahJahidi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🧠 Skills
+- Programming: C++ 
+- Tools & IDEs: Visual Studio Code, GitHub
+- Software & Tools : Canva, Microsoft Word, Microsoft Excel  
+
+## 🎯 Goals
+- Finish my degree with excellence and persue a career in the tech industry  
+- Build projects that make an impact
+
+## 📈 GitHub Activity Graph
+[![Mursyidah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MursyidahJahidi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📬 Connect With Me
+🔗 GitHub: [MursyidahJahidi](https://github.com/MursyidahJahidi )<br>
+📧 Email: najlaaunio6@gmail.com<br>
+💼 LinkedIn: [Mursyidah Jahidi](https://www.linkedin.com/in/mursyidah-jahidi-a9b279398/)<br>
+💬 WhatsApp: Chat with me<br>
+👣 Instagram: [mrsydh._]()<br>

@@ -34,11 +34,11 @@
 4th place in District Netball Competition  - 2022 & 2023<br>
 
 ## 📚 Courses
-[SECI1013 - Discrete Structure]<br>
-[SECJ1013 - Programming Technique I]<br>
-[SECP1513 - Technology and Information System]<br>
-[SECR1013 - Digital Logic]<br>
-[ULRS1032 - Integrity and Anti-Corruption]<br>
+[SECI1013 - Discrete Structure](https://github.com/MursyidahJahidi/MyAcademicSem1/tree/a2ad54a914ee317fb7667302aeedb82b753e2157/SECI1013%20-%20Discrete%20Structure)<br>
+[SECJ1013 - Programming Technique I](https://github.com/MursyidahJahidi/MyAcademicSem1/tree/a2ad54a914ee317fb7667302aeedb82b753e2157/SECJ1013%20-%20Programming%20Technique%20I)<br>
+[SECP1513 - Technology and Information System](https://github.com/MursyidahJahidi/MyAcademicSem1/tree/a2ad54a914ee317fb7667302aeedb82b753e2157/SECP1513%20-%20Technology%20and%20Information%20System)<br>
+[SECR1013 - Digital Logic](https://github.com/MursyidahJahidi/MyAcademicSem1/tree/a2ad54a914ee317fb7667302aeedb82b753e2157/SECR1013%20-%20Digital%20Logic)<br>
+[ULRS1032 - Integrity and Anti-Corruption](https://github.com/MursyidahJahidi/MyAcademicSem1/tree/a2ad54a914ee317fb7667302aeedb82b753e2157/ULRS1032%20-%20Integrity%20and%20Anti-Corruption)<br>
 
 ## Recent Projects
 

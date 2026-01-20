@@ -58,5 +58,6 @@
 🔗 GitHub: [MursyidahJahidi](https://github.com/MursyidahJahidi )<br>
 📧 Email: mursyidah.9879@gmail.com<br>
 💼 LinkedIn: [Mursyidah Jahidi](https://www.linkedin.com/in/mursyidah-jahidi-a9b279398/)<br>
+Personal website: [Mursyidah Jahidi](https://mursyidahjahidi.github.io/mursyidah.github.io/)<br>
 💬 WhatsApp: Chat with me<br>
 👣 Instagram: [mrsydh._](https://www.instagram.com/mrsydh._?igsh=MXdpYWVxbHA4NjExYg%3D%3D&utm_source=qr)<br>
